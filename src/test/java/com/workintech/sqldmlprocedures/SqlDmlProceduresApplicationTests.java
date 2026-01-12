@@ -26,7 +26,7 @@ class SqlDmlProceduresApplicationTests {
 	private OgrenciRepository ogrenciRepository;
 	private TurRepository turRepository;
 	private YazarRepository yazarRepository;
-
+	//allfixed
 	@Autowired
 	public SqlDmlProceduresApplicationTests(KitapRepository kitapRepository, OgrenciRepository ogrenciRepository,
 											TurRepository turRepository, YazarRepository yazarRepository) {
